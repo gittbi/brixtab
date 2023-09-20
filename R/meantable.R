@@ -1,4 +1,4 @@
-#' meantable()
+#' meantable
 #'
 #' @param x = dataframe
 #' @param colvar 
